@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/AntonUniatitskyi?template=classic&base.header=0&base.activity=0&base.community=0&display=regular" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterhst-97.vercel.app/api?username=AntonUniatitskyi&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonUniatitskyi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
